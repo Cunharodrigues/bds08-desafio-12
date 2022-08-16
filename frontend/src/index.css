@@ -3,12 +3,11 @@
 }
 
 :root {
-  --primary-color: #FFFFFF;
+  --primary-color: #fff;
   --secondary-color: #e5e5e5;
   --blue-color: #334ac3;
   --gray-color: #8d8d8d;
 }
-
 
 body {
   margin: 0;
